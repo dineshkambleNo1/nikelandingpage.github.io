@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nikelandingpage/static/css/main.f10ff38b.css",
-    "main.js": "/nikelandingpage/static/js/main.0c6de0be.js",
-    "index.html": "/nikelandingpage/index.html",
-    "main.f10ff38b.css.map": "/nikelandingpage/static/css/main.f10ff38b.css.map",
-    "main.0c6de0be.js.map": "/nikelandingpage/static/js/main.0c6de0be.js.map"
+    "main.css": "/nikelandingpage.github.io/static/css/main.f10ff38b.css",
+    "main.js": "/nikelandingpage.github.io/static/js/main.0c6de0be.js",
+    "index.html": "/nikelandingpage.github.io/index.html",
+    "main.f10ff38b.css.map": "/nikelandingpage.github.io/static/css/main.f10ff38b.css.map",
+    "main.0c6de0be.js.map": "/nikelandingpage.github.io/static/js/main.0c6de0be.js.map"
   },
   "entrypoints": [
     "static/css/main.f10ff38b.css",
